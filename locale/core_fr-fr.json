@@ -20,8 +20,8 @@
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 	
 	"core_msgbox_deskscapes" : "Il apparait que DeskScapes est activé. Ceci peut empêcher Wallpaper Engine de fonctionner.",
-	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine demande d'activer Aero pour fonctionner. Activer Aero maintenant ?",
-	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne peut fonctionner avec un thème 'haute résolution'. Voulez vous restaurer le thème?",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine a besoin d'Aero pour fonctionner. Voulez-vous l'activer maintenant ?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne peut fonctionner avec un thème 'haute résolution'. Voulez-vous restaurer le thème?",
 	"core_msgbox_dwm_disabled" : "La Composition du Bureau n'est pas activé.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ne peut fonctionner sans Aero et va maintenant fermer.",
 	"core_msgbox_aero_failure" : "Impossible de démarer Aero. Wallpaper Engine va maintenant fermer.",
